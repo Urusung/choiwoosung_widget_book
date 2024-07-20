@@ -1,2 +1,2 @@
-String userName = 'June';
-String githubUrl = 'https://github.com/melodysdreamj/my_widget_book';
+String userName = 'choiwoosung';
+String githubUrl = 'https://github.com/Urusung/choiwoosung_widget_book';
